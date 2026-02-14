@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> webpack's **Google Summer of Code ideas/projects** are now publicly available [here](https://docs.google.com/document/d/1Mr_IPVdbupGwmGtcvLlVqFEL8wYN_rlfHUghJ2EPBVE/edit?usp=sharing).
+> 
+> **PLEASE:** Read them and use them for submitting for webpack GSoC 2026, ideas outside of those won't be accepeted. Q&A/AMA on webpack's Discord https://discord.gg/webpack
+
 <h1 align="center">webpack GSoC Onboarding Guide 🎓</h1>
 
 <div align="center">
