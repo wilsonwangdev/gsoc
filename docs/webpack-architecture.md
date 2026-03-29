@@ -178,7 +178,9 @@ The process relies on static analysis, so it works best with ES6 modules rather 
 webpack automatically splits code into chunks based on several strategies:
 
 **Entry point splitting** - Each entry point becomes a separate chunk
+
 **Dynamic imports** - `import()` statements create separate chunks
+
 **SplitChunks optimization** - Shared dependencies are extracted into vendor chunks
 
 ```mermaid
